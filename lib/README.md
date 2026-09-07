@@ -1,2 +1,2 @@
-Run `scripts/fetch_deps.sh` to place LilyGo's `Arduino_DriveBus` library here.
-It is GPL-3.0 and is deliberately not vendored into this repo.
+run `scripts/fetch_deps.sh` to drop lilygo's `Arduino_DriveBus` in here (arduino build only).
+it's GPL-3.0 and deliberately not vendored.
